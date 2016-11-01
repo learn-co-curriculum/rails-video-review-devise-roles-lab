@@ -4,6 +4,7 @@ This video review lesson covers many of the concepts that you've learned about i
 
 ## Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RTXyPhRBQ_4" frameborder="0" allowfullscreen></iframe>
+<a href="https://www.youtube.com/embed/RTXyPhRBQ_4">Link to watch</a>
 ## How You Can Help Us Make These Videos Better
 
 ### Suggest a Summary of the Video That We Can Add
